@@ -1,0 +1,16 @@
+{
+    "Allowed_Users": [
+        {
+            "Username": "hello",
+            "Password": "hi"
+        },
+        {
+            "Username": "bye",
+            "Password": "no"
+        },
+        {
+            "Username": "b111b17cb0bc024ecae103931d7ee46cb17896b52d9b863cf4b4cdff170ac634",
+            "Password": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824"
+        }
+    ]
+}
